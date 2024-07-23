@@ -14,5 +14,5 @@ Hello! I'm Hai Dinh Ba, a passionate Data Engineer with a love for data processi
 
 ## Contact Me
 - [Email](mailto:dinhbahai99@gmail.com)
-- [LinkedIn](https://www.linkedin.com/in/your-profile](https://www.linkedin.com/in/h%E1%BA%A3i-%C4%91inh-b%C3%A1-bb45282a5/))
+- [LinkedIn](https://www.linkedin.com/in/h%E1%BA%A3i-%C4%91inh-b%C3%A1-bb45282a5))
 - [Facebook](https://www.facebook.com/dinhbahaiGL)
